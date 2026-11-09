@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" width="160" height="50">
+  <rect x="0.5" y="0.5" width="159" height="49" rx="8" fill="#146394" stroke="#ffffff" stroke-width="1"/>
+  <g transform="translate(12 13)">
+    <path d="M0 0v24l13-12L0 0z" fill="#ffffff"/>
+    <path d="M13 12L18 7l4 2.3L13 12z" fill="#faa62e"/>
+    <path d="M13 12l9 2.7-4 2.3L13 12z" fill="#faa62e"/>
+    <path d="M0 0l13 12L18 7 0 0z" fill="#ffffff" opacity="0.85"/>
+    <path d="M0 24l13-12 5 5L0 24z" fill="#ffffff" opacity="0.7"/>
+  </g>
+  <text x="46" y="22" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#ffffff">GET IT ON</text>
+  <text x="46" y="38" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Google Play</text>
+</svg>
